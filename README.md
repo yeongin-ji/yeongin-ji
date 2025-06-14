@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=3&height=300&section=header&text=Welcome!&fontAlign=30&fontAlignY=32&desc=함께%20일하고%20싶은%20개발자,%20지영인입니다.&descSize=20&descAlign=25&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10&height=200&section=header&text=Welcome!&fontAlign=25&animation=fadeIn)
 
 ## ⏺️ About Me
 - 
