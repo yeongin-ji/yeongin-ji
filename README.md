@@ -24,9 +24,3 @@
 - Git & Github Starter Session (23.12~24.01) | GDSC Gachon 23-24 | [1회차](https://youtu.be/T1DpXDSsvvY) | [2회차](https://youtu.be/fOtzgRCSFxI) | [3회차](https://youtu.be/MvTcWjO4cu8)
 
 </br>
-
----
-
-
-![Yeongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongin-ji&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongin-ji&layout=compact&theme=algolia)
